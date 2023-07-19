@@ -1,0 +1,25 @@
+<!--=*= ADMIN INFO =*=-->
+
+Root Admin
+email	: m.mustafakapici@admin.com
+pass	: abc123
+
+pass HASH SHA1
+
+
+
+<!--=*= CUSTOMER INFO =*=-->
+email	: kabirkhan@gmail.com
+pass	: abc123
+
+email	: jhondoe@gmail.com
+pass	: abc123
+
+email	: almamunroni@gmail.com
+pass	: abc123
+
+email	: nirjhorsir@gmail.com
+pass	: abc123
+
+email	: jobayertuser@gmail.com
+pass	: abc123
